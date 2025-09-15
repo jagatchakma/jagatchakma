@@ -1,6 +1,6 @@
 ### Hi 👋 I am Jagat Mettra Chakma
 #### I am a web developer
-![I am a web developer](https://drive.google.com/file/d/13h0kVZ2Ecuv9TpEYSk5OhJKUsL1pP2yZ/view?usp=sharing)
+![I am a web developer]([https://drive.google.com/file/d/13h0kVZ2Ecuv9TpEYSk5OhJKUsL1pP2yZ/view?usp=sharing](https://i.ibb.co.com/ch5Y4V53/Git-profile-banner.png))
 
 Dynamic and results-driven web developer with a strong command over HTML for structuring, Tailwind CSS for responsive design, and React for functionality. Adept at handling state management, API integration, and authentication workflows with Firebase. Skilled in backend development with Node.js, leveraging Express as middleware and MongoDB as a reliable data store.
 
