@@ -7,9 +7,7 @@ Dynamic and results-driven web developer with a strong command over HTML for str
 I excel at crafting user-centric, responsive, and functional web applications, merging technical precision with practical solutions. With a sharp eye for detail and a passion for innovative development, I am ready to contribute my expertise to a forward-thinking team. Actively seeking opportunities to bring value and creativity to exciting projects.
 
 Contact:
-https://github.com/jagatChakma
-
-https://www.linkedin.com/in/jagatchakma/
+https://github.com/jagatChakma || https://www.linkedin.com/in/jagatchakma/
 
 Skills: HTML | CSS | BOOTSTRAP | TAILWIND CSS | JS | REACT | NODE | EXPRESS | MONGODB | FIREBASE |
 
