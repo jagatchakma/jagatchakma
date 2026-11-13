@@ -8,13 +8,14 @@ I excel at crafting user-centric, responsive, and functional web applications, m
 
 Contact:
 https://github.com/jagatChakma
+
 https://www.linkedin.com/in/jagatchakma/
 
 Skills: HTML | CSS | BOOTSTRAP | TAILWIND CSS | JS | REACT | NODE | EXPRESS | MONGODB | FIREBASE |
 
 - 🔭 I’m currently working on Self development 
 - 🌱 I’m currently learning Web development ecosystem 
-- 🤔 I’m looking for help who heed web developer 
+- 🤔 I’m looking for help who need web developer 
 - 📫 How to reach me: https://www.linkedin.com/in/jagatchakma/ 
 
 
