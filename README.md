@@ -17,5 +17,3 @@ Skills: HTML | CSS | BOOTSTRAP | TAILWIND CSS | JS | REACT | NODE | EXPRESS | MO
 - 📫 How to reach me: https://www.linkedin.com/in/jagatchakma/ 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https:/jagatchakma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https:/in/jagatchakma/)  
-
